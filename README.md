@@ -1,4 +1,3 @@
 # web-sites
 # modify a file in the remote Repository.
-# Fetch
-# improtant Info about GitHub
+# update README file on Github before the rebase
