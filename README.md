@@ -4,3 +4,7 @@
 ## purpose
 Just an update for the README file to make a conflict.
 Need to update the file for the tag merging.
+
+## Getting started section
+
+Just update the README file to close the Issue that we created.
